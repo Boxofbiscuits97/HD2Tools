@@ -1,4 +1,6 @@
-﻿namespace RawMaterialEditor;
+﻿// Ignore Spelling: Deserialize Klass
+
+namespace RawMaterialEditor;
 
 internal struct VariableReflection : IBinarySerializable<VariableReflection>
 {

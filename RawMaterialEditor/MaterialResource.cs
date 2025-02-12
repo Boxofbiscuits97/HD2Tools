@@ -1,4 +1,6 @@
-﻿using System.ComponentModel;
+﻿// Ignore Spelling: Deserialize
+
+using System.ComponentModel;
 
 namespace RawMaterialEditor;
 

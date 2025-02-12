@@ -27,9 +27,4 @@ public partial class MainForm : Form
             ((MaterialResource)propertyGrid.SelectedObject!).Serialize(writer);
         }
     }
-
-    private void propertyGrid_Click(object sender, EventArgs e)
-    {
-
-    }
 }
